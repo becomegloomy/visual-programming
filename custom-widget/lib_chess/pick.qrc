@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>конь белый.png</file>
+        <file>конь черный.png</file>
+        <file>король белый.png</file>
+        <file>король черный.png</file>
+        <file>ладья белая.png</file>
+        <file>ладья черная.png</file>
+        <file>пешка белая.png</file>
+        <file>пешка черная.png</file>
+        <file>слон белый.png</file>
+        <file>слон черный.png</file>
+        <file>ферзь белый.png</file>
+        <file>ферзь черный.png</file>
+    </qresource>
+</RCC>
