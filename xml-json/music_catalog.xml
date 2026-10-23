@@ -1,0 +1,56 @@
+<music>
+    <author name="Billie Eilish">
+        <album name="Happier That Ever">
+            <track title="Getting Older" year="2021" genre="Минимализм" />
+            <track title="I Didn't Change My Number" year="2021" genre="Альтернативный поп" />
+            <track title="Oxytocin" year="2021" genre="Танцевальная поп-музыка" />
+            <track title="Lost Cause" year="2021" genre="Софт-рок" />
+            <track title="NDA" year="2021" genre="Альтернативный поп" />
+            <track title="Happier Than Ever" year="2020" genre="Альтернативный рок" />
+        </album>
+        <album name="Guitar Songs">
+            <track title="TV" year="2022" genre="Акустический поп" />
+            <track title="The 30th" year="2022" genre="Акустический поп" />
+        </album>
+        <album name="HIT ME HARD AND SOFT">
+            <track title="SKINNY" year="2024" genre="Поп" />
+            <track title="LUNCH" year="2024" genre="Электро" />
+            <track title="CHIHIRO" year="2024" genre="Инди-поп" />
+            <track title="BIRDS OF A FEATHER" year="2024" genre="Поп" />
+            <track title="WILDFLOWER" year="2024" genre="Поп" />
+        </album>
+    </author>
+    <author name="Cold Carti">
+        <album name="всегда ненавидел быть слабым">
+            <track title="сейчас в себе" year="2024" genre="Хип-хоп" />
+            <track title="все тебе радо" year="2024" genre="Хип-хоп" />
+            <track title="в чем я виноват" year="2024" genre="Хип-хоп" />
+            <track title="музыка или счастье" year="2024" genre="Хип-хоп" />
+            <track title="ты никогда не будешь один" year="2024" genre="Хип-хоп" />
+        </album>
+        <album name="моими глазами">
+            <track title="фоанрики на крыше" year="2023" genre="Хип-хоп" />
+            <track title="твоими глазами" year="2023" genre="Хип-хоп" />
+            <track title="в чем я виноват" year="2023" genre="Хип-хоп" />
+            <track title="смотреть на тебя" year="2023" genre="Хип-хоп" />
+            <track title="все это не то" year="2023" genre="Хип-хоп" />
+        </album>
+    </author>
+    <author name="Три дня дождя">
+        <album name="melancholia">
+            <track title="Вдох" year="2023" genre="Альтернативный рок" />
+            <track title="Прощание" year="2023" genre="Альтернативный рок" />
+            <track title="Иду за тобой" year="2023" genre="Альтернативный рок" />
+            <track title="За край" year="2023" genre="Альтернативный рок" />
+            <track title="Аутоагрессия" year="2023" genre="Альтернативный рок" />
+            <track title="Слаб" year="2023" genre="Альтернативный рок" />
+        </album>
+        <album name="Байполар">
+            <track title="Подозрительно" year="2022" genre="Альтернативный рок" />
+            <track title="Не виноваты планеты" year="2022" genre="Альтернативный рок" />
+            <track title="Отпускай" year="2022" genre="Альтернативный рок" />
+            <track title="Выдыхай" year="2022" genre="Альтернативный рок" />
+            <track title="Я и одиночество" year="2022" genre="Альтернативный рок" />
+        </album>
+    </author>
+</music>
