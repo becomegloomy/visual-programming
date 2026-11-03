@@ -1,1 +1,76 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
 
+# Qt Meta-Object Compiler (moc)
+moc_*.cpp
+moc_*.h
+moc_predefs.h
+
+# Qt User Interface Compiler (uic)
+ui_*.h
+
+# Qt Resource Compiler (rcc)
+qrc_*.cpp
+
+# Артефакты сборки
+build-*/
+build/
+
+# Makefile и служебные файлы qmake
+Makefile
+Makefile.*
+.qmake.stash
+*.qmake.stash
+
+# Объектные файлы и прекомпилированные заголовки
+*.o
+*.obj
+*.pch
+*.gch
+
+# Скомпилированные библиотеки и исполняемые файлы
+# Linux
+*.so
+*.so.*
+*.a
+
+# macOS
+*.dylib
+*.dylib.*
+
+# Windows
+*.dll
+*.lib
+*.exe
+*.pdb
+*.ilk
+*.exp
+
+# Отладочная информация
+*.debug
+*.dSYM/
+*.sym
+
+# Редакторы и ОС
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion / IDEA
+.idea/
+*.iml
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
